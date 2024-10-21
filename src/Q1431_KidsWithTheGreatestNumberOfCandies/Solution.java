@@ -1,4 +1,4 @@
-package Q1431_KidsWiththeGreatestNumberofCandies;
+package Q1431_KidsWithTheGreatestNumberOfCandies;
 
 import java.util.ArrayList;
 import java.util.List;
